@@ -1,5 +1,5 @@
-import React, { useState } from 'react'
-import { data } from '../data/data'
+import React, { useState } from 'react';
+import { data } from '../data/data';
 
 const Food = () => {
   // console.log(data)
